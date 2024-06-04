@@ -1,12 +1,4 @@
 <template>
-  <header>
-    <div class="logo">Lundev</div>
-    <nav>
-      <a href="">Home</a>
-      <a href="">Info</a>
-      <a href="">Contact</a>
-    </nav>
-  </header>
   <div class="carousel">
     <div class="list">
       <div class="item">
